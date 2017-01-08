@@ -1,4 +1,5 @@
-# ansible-vagrant-bsd
+VagrantBox - BSD
+=====
 
 Trial for BSD setup with Vagrant and Ansible. Vagrant provisions a BSD system and sets up Python on it. Then later Ansible can run a ping against the system successfully.
 
